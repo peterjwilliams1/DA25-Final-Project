@@ -1,5 +1,9 @@
 # DA25-Final-Project
 
+  'Compiled by The Meteoritical Society and made available through NASA’s Open Data Portal. 
+  It includes 34,513 recorded meteorites with key details such as location, type, mass, 
+  fall status (whether the meteorite was observed falling or found later), and geographical coordinates.'
+
 Analysis of Meteorite Impacts
   - Geolocation of known impacts
   - History of Counts
