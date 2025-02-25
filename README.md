@@ -1,24 +1,37 @@
 # DA25-Final-Project
 
-  'Compiled by The Meteoritical Society and made available through NASA’s Open Data Portal. 
-  It includes 34,513 recorded meteorites with key details such as location, type, mass, 
-  fall status (whether the meteorite was observed falling or found later), and geographical coordinates.'
-
-Analysis of Meteorite Impacts
+GOAL: The goal is to include as much content from the Bootcamp as possible (Xstaliyation of Bootcamp in 10 minutes)
+- Python, Tableau, SQL (likely no real application in this project)
+- Data Cleaning & Wrangling
+- Data Analysis - Python
+  - Analysis of Meteorite Impacts
   - Geolocation of known impacts
-  - History of Counts
-  - History of Counts by Country
+  - History of counts
+  - History of counts by country
+  - Map showing counts by country
+- Data Visualisation
+  - Tableau for visualisation and map plotting of impact sites
+- Webscraping (API not neccessary for this project)
+  - Geopy for geo-location data
+  - Population Data
+- Probability
+  - Are Meteorite Falls Evenly Distributed Across Decades?
+  - Are Meteorite Masses Normally Distributed?
+- Machine Learning
+  - Predicting Meteorite Impact Mass
+  - Predicting Meteorite Fall Likelihood 
 
-Prediction of impact areas using Machine Learning
+Datasource:
+- Meteorite Data
+https://www.kaggle.com/datasets/nafayunnoor/meteorite-landings-on-earth-data?select=Meteorite_Landings.csv
+Source:
+Original Data Provider: The Meteoritical Society
+Hosted by: NASA Open Data Portal (data.nasa.gov)
+Dataset Link: Meteorite Landings on Data.gov
+- Population Data
+https://www.worldometers.info/
+Source: Worldometer
 
-Enrichment of data using Population data
 
- - Possible enrichment of data using UFO sightings just for fun
+ 
 
- - Relationship of Meteorite mass to ability to survive atmosphere
-    - Mean mass and standard devaitions
-    - Minimum Mass(?)
-    - Box plots of masses?
-
-
-  
