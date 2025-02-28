@@ -4,12 +4,6 @@ https://www.canva.com/design/DAGgICgUApo/V_8GXe1g014b6kEjpjRWxA/edit
 final Presentation:
 https://www.canva.com/design/DAGgHi_irMs/JxooLheg13tWxPv30lW6Jw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
 
-Meteorite Pic Source:
-https://www.deutschlandfunk.de/seltenheitsfund-vom-typ-aubrit-begeistert-die-wissenschaft-spur-zum-merkur-100.html
-
-CIA Landmass Data by Country
-https://www.cia.gov/the-world-factbook/field/area/country-comparison/
-
 # DA25-Final-Project
 
 GOAL: The goal is to include as much content from the Bootcamp as possible (Xstaliyation of Bootcamp in 10 minutes)
@@ -33,7 +27,7 @@ GOAL: The goal is to include as much content from the Bootcamp as possible (Xsta
   - Predicting Meteorite Impact Mass
   - Predicting Meteorite Fall Likelihood 
 
-Datasource:
+Datasources:
 - Meteorite Data
 https://www.kaggle.com/datasets/nafayunnoor/meteorite-landings-on-earth-data?select=Meteorite_Landings.csv
 Source:
@@ -44,11 +38,14 @@ Dataset Link: Meteorite Landings on Data.gov
 https://www.lpi.usra.edu/meteor/metbull.php
 Meteoritical Bulletin Database
 
+Meteorite Pic Source:
+https://www.deutschlandfunk.de/seltenheitsfund-vom-typ-aubrit-begeistert-die-wissenschaft-spur-zum-merkur-100.html
+- Area Dataset
+CIA Landmass Data by Country
+https://www.cia.gov/the-world-factbook/field/area/country-comparison/
 
-- Population Data
-https://www.worldometers.info/
-Source: Worldometer
-
-
- 
+Datasets:
+DF1: Combined_Filtered_Datasheet.csv - Meteorite data (Kaggle)
+DF2:  - Meteorite data (Metbull)
+DF3: Area_DataSheet.csv - Landmass Data (CIA)
 
