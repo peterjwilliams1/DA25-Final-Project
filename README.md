@@ -46,6 +46,6 @@ https://www.cia.gov/the-world-factbook/field/area/country-comparison/
 
 Datasets:
 DF1: Combined_Filtered_Datasheet.csv - Meteorite data (Kaggle)
-DF2:  - Meteorite data (Metbull)
+DF2: Datasheet_2 - Meteorite data (Metbull)
 DF3: Area_DataSheet.csv - Landmass Data (CIA)
 
