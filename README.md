@@ -7,6 +7,9 @@ https://www.canva.com/design/DAGgHi_irMs/JxooLheg13tWxPv30lW6Jw/edit?ui=eyJIIjp7
 Meteorite Pic Source:
 https://www.deutschlandfunk.de/seltenheitsfund-vom-typ-aubrit-begeistert-die-wissenschaft-spur-zum-merkur-100.html
 
+CIA Landmass Data by Country
+https://www.cia.gov/the-world-factbook/field/area/country-comparison/
+
 # DA25-Final-Project
 
 GOAL: The goal is to include as much content from the Bootcamp as possible (Xstaliyation of Bootcamp in 10 minutes)
