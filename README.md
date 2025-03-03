@@ -45,6 +45,9 @@ https://www.deutschlandfunk.de/seltenheitsfund-vom-typ-aubrit-begeistert-die-wis
 CIA Landmass Data by Country
 https://www.cia.gov/the-world-factbook/field/area/country-comparison/
 
+Leonids Meteor Shower Information:
+https://leonid.arc.nasa.gov/history.html
+
 Datasets:
 DF1: 1960's data
 DF2: 1970's data
