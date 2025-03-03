@@ -41,11 +41,18 @@ Meteoritical Bulletin Database
 Meteorite Pic Source:
 https://www.deutschlandfunk.de/seltenheitsfund-vom-typ-aubrit-begeistert-die-wissenschaft-spur-zum-merkur-100.html
 - Area Dataset
+- 
 CIA Landmass Data by Country
 https://www.cia.gov/the-world-factbook/field/area/country-comparison/
 
 Datasets:
-DF1: Combined_Filtered_Datasheet.csv - Meteorite data (Kaggle)
-DF2: Datasheet_2 - Meteorite data (Metbull)
-DF3: Area_DataSheet.csv - Landmass Data (CIA)
+DF1: 1960's data
+DF2: 1970's data
+DF3: 1980's data
+DF4: 1990's data
+DF5: 2000's data
+DF6: 2010's data
+DF7: Area_DataSheet.csv - Landmass Data (CIA)
+DF8: Combined df1 - df7
+DF9: df_full_ml (All data w/ Amchine Learning.
 
