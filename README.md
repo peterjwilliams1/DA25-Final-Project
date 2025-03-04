@@ -48,6 +48,9 @@ https://www.cia.gov/the-world-factbook/field/area/country-comparison/
 Leonids Meteor Shower Information:
 https://leonid.arc.nasa.gov/history.html
 
+Antarctica Info & Picture: National Geographic
+https://www.nationalgeographic.com/science/article/antarctica-meteorites-asteroids-climate-change?
+
 Datasets:
 DF1: 1960's data
 DF2: 1970's data
