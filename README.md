@@ -51,6 +51,12 @@ https://leonid.arc.nasa.gov/history.html
 Antarctica Info & Picture: National Geographic
 https://www.nationalgeographic.com/science/article/antarctica-meteorites-asteroids-climate-change?
 
+Brandenburg Meteorite Picture: Der Spiegel
+https://www.spiegel.de/wissenschaft/weltall/absturz-ueber-brandenburg-meteorit-ist-4-5-milliarden-jahre-alt-und-riecht-nach-faulen-eiern-a-6163975e-40d5-4143-8d83-3b7509adc01d#bild-bb251877-8ecc-4a23-834b-1b977c5d96cb
+
+Meteorite Geology
+https://geology.com/meteorites/iron-meteorites.shtml?utm_source=chatgpt.com
+
 Datasets:
 DF1: 1960's data
 DF2: 1970's data
