@@ -13,7 +13,6 @@ GOAL: The goal is to include as much content from the Bootcamp as possible (Xsta
   - Analysis of Meteorite Impacts
   - Geolocation of known impacts
   - History of counts
-  - History of counts by country
   - Map showing counts by country
 - Data Visualisation
   - Tableau for visualisation and map plotting of impact sites
@@ -21,11 +20,9 @@ GOAL: The goal is to include as much content from the Bootcamp as possible (Xsta
   - Geopy for geo-location data
   - Population Data
 - Probability
-  - Are Meteorite Falls Evenly Distributed Across Decades?
-  - Are Meteorite Masses Normally Distributed?
+  - Is there a correlation between Meteorite Mass and Composition
 - Machine Learning
   - Predicting Meteorite Impact Mass
-  - Predicting Meteorite Fall Likelihood 
 
 Datasources:
 - Meteorite Data
