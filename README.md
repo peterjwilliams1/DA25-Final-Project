@@ -1,8 +1,8 @@
 Pitch Presentation:
 https://www.canva.com/design/DAGgICgUApo/V_8GXe1g014b6kEjpjRWxA/edit
 
-final Presentation:
-https://www.canva.com/design/DAGgHi_irMs/JxooLheg13tWxPv30lW6Jw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
+Final Presentation:
+https://www.canva.com/design/DAGkm4QyVCc/VmRDgnGaAtmvFQXLUzcE4A/view?utm_content=DAGkm4QyVCc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc8c379cbb3
 
 # DA25-Final-Project
 
